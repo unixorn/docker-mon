@@ -19,7 +19,7 @@
   "dependencies": {
     "blessed": "0.0.38",
     "blessed-contrib": "0.0.4",
-    "cli": "^0.6.5",
+    "cli": "^1.0.1",
     "humanize": "0.0.9",
     "mime-db": "1.5.0",
     "moment": "2.9.0",
